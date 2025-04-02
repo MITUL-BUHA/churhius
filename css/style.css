@@ -400,7 +400,7 @@ section{
 }
 
 .counter{
-    background-image: url(/img/counter.jpg);
+    background-image: url(../img/counter.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -445,7 +445,7 @@ section{
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url(/img/half-bg.jpg);
+    background-image: url(../img/half-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -619,7 +619,7 @@ section{
 }
 
 .slider{
-    background-image: url(/img/slider-bg.jpg);
+    background-image: url(../img/slider-bg.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -791,7 +791,7 @@ section{
 
 
 .parallax-section{
-    background-image: url(/img/parallax-bg.jpg);
+    background-image: url(../img/parallax-bg.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -832,7 +832,7 @@ section{
 }
 
 .call-out-col1{
-    background-image: url(/img/call-out1.jpg);
+    background-image: url(../img/call-out1.jpg);
     /* position: absolute; */
     /* left: 0;
     right: 0;
@@ -876,7 +876,7 @@ section{
     opacity: 0.8;
 }
 .call-out-col2{
-    background-image: url(/img/call-out2.jpg);
+    background-image: url(../img/call-out2.jpg);
     /* position: absolute; */
     /* left: 0;
     right: 0;
@@ -918,7 +918,7 @@ section{
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url(/img/download-bg.jpg);
+    background-image: url(../img/download-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1282,7 +1282,7 @@ form input{
     }
     .col-left .half-bg{
         height: 447px;
-        /* background-image: url(/img/half-bg.jpg); */
+        /* background-image: url(../img/half-bg.jpg); */
     }
     .event-container{
         padding: 0;
